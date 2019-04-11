@@ -3,17 +3,7 @@ Take Home Exercise for Validity Application
 
 ### Prerequisites
 
-Jdk 1.8
-
-### Installing
-
-If a jdk is not already downlaoded on your machine:
-1. Please visit https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html
-2. Select the correct verison of the jdk based on your machine's OS
-3. Download and save to the appropriate program file
-
-To downlaod this project:
-1. Use the download button to save this project to a file of your choice
+Jdk 1.8 - (https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html)
 
 ## Authors
 
@@ -21,7 +11,7 @@ To downlaod this project:
 
 ## Usage
 
-duplicateDataDuplication.java inputFile <CSV File>
+duplicateDataDuplication.java "data/normal.csv"
   
 ## Design Choice
 
