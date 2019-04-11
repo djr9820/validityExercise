@@ -14,9 +14,11 @@ Jdk 1.8 - (https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloa
 duplicateDataDuplication.java "data/normal.csv"
 
 Output:
+
 Potential Duplicates:
 	Kale, Gipp, Klein Group, kgipp3@360.cn, 4985 Menomonie Drive, , 94975, Petaluma, California, 707-840-2551
 	Barney, Parncutt, "Collier,  Grady and Huels", bparncutta@ezinearticles.com, 07700 Rutledge Court, , 11205, Brooklyn, New York, 718-430-6357
+
 None Duplicates:
 	Donalt, Canter, Gottlieb Group, dcanter0@nydailynews.com, 9 Homewood Alley, , 50335, Des Moines, Iowa, 515-601-4495
 	Daphene, McArthur, "West,  Schimmel and Rath", dmcarthur1@twitter.com, 43 Grover Parkway, , 30311, Atlanta, Georgia, 770-271-7837
