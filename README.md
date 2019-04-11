@@ -1,6 +1,7 @@
 # Validity Duplicate Data Detection Exercise
 Take Home Exercise for Validity Application
 
+
 ### Prerequisites
 
 Jdk 1.8 - (https://www.oracle.com/technetwork/java/javaee/downloads/jdk8-downloads-2133151.html)
